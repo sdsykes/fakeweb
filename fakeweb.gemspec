@@ -1,9 +1,9 @@
 # encoding: utf-8
 
 Gem::Specification.new do |s|
-  s.name              = "fakeweb"
+  s.name              = "fakeweb-fi"
   s.rubyforge_project = "fakeweb"
-  s.version           = "1.3.0"
+  s.version           = "1.3.1"
   s.summary           = "A tool for faking responses to HTTP requests"
 
   s.homepage          = "https://github.com/chrisk/fakeweb"
